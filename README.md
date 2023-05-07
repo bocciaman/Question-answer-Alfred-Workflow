@@ -1,6 +1,6 @@
 # README
 
-I started this Alfred workflow based on a project that [Brett Terpstra](https://brettterpstra.com) gave away for free on his website. The Brett Terpstra's app is called [QuickQuestion](https://brettterpstra.com/projects/quickquestion/). So, because I have no creativity when trying to get code to work, I came up with the name Question-Answer (Q-A) for my Alfred workflow. I used ChatGBT to develop two bash scripts that made Alfred answer a pre-determined set of questions from a pre-determined set of answers. 
+I started this Alfred workflow based on a project that [Brett Terpstra](https://brettterpstra.com) gave away for free on his website that I couldn't edit the bash script for to make it work on my system. The Brett Terpstra's app is called [QuickQuestion](https://brettterpstra.com/projects/quickquestion/). So, because I have no creativity when trying to get code to work, I came up with the name Question-Answer (Q-A) for my Alfred workflow. I used ChatGBT to develop two bash scripts that made Alfred answer a pre-determined set of questions from a pre-determined set of answers. 
 
 ## Introduction
 
