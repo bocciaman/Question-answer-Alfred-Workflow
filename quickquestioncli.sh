@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the path to your Google Drive folder containing the question and answer files
-GOOGLE_DRIVE_PATH="/Users/anwara/Library/CloudStorage/GoogleDrive-bocciaman@gmail.com/My Drive/QuickQuestion/"
+GOOGLE_DRIVE_PATH="your_folder_Path/"
 
 # Get the user's input
 QUESTION=$1
